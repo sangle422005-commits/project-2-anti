@@ -1,0 +1,10 @@
+{
+  "name": "Chung Tiền - Quản lý chi tiêu chung",
+  "short_name": "Chung Tiền",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0b1f",
+  "theme_color": "#0f0b1f",
+  "lang": "vi",
+  "icons": [{"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
